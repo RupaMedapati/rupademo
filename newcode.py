@@ -1,1 +1,1 @@
-this is second day
+print("hello")
