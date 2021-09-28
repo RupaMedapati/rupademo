@@ -3,4 +3,5 @@
   tasks:
    - command: "hostname"
    - command: "uname -r"
+   - command: "hostname"
 
